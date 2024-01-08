@@ -1,0 +1,103 @@
+{
+    "jobTitle": [
+        {
+            "title": "a software developer",
+            "color": "rgb(57, 153, 0)"
+        }   
+    ],
+    "about": [
+        "I am an aspiring Full-stack developer, fueled by enthusiasm and a deep interest in Game design. My goal is to carve a career path closely aligned with the ever-evolving landscape of technology. I firmly believe that the future of the tech industry holds a bright and promising journey, and I am dedicated to channeling my skills and passion towards achieving my life's goals. Excited about the opportunities and challenges ahead, I am committed to continuous learning, innovation, and contributing to the vibrant and transformative world of technology."
+    ],
+    "education": [
+        {
+            "id": 1,
+            "year": 2021,
+            "description": "I matriculated with a Bachelors pass",
+            "place": "Glendale Secondary School",
+            "type": "certificate"
+        },
+        {
+            "id": 2,
+            "year": 2023,
+            "description": "I joined lifeChoices and I am still present there",
+            "place": "LifeChoices Coding Academy"
+        }
+    ],
+    "skills": [
+        {
+            "title": "HTMl",
+            "experience": "Novice"
+        },
+        {
+            "title": "CSS",
+            "experience": "Novice"
+        },
+        {
+            "title": "Javascript",
+            "experience": "Novice"
+        },
+        {
+            "title": "Bootstrap",
+            "experience": "Novice"
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Muttaqeen",
+            "surname": "Slamat",
+            "quotes": "I highly recommend Al-Mu'akhir as an aspiring web developer. Their motivation, keen learning spirit, and strong potential make them a standout candidate. He is sure to excel in the field.",
+            "profile": "."
+        },
+        {
+            "name": "Joel",
+            "surname": "Mukanya",
+            "quotes": "Al-Muakhir is a creative, observer, and well-behaved individual who always prioritizes his work. He excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap. Including Git and GitHub.He has the ability to learn and apply new information rapidly in projects ",
+            "profile": "."
+        },
+        {
+            "name": "Jay-donn",
+            "surname": "Hendricks",
+            "quotes": "Almuakhir is an absolute powerhouse at work. His energy, enthusiasm, and unwavering dedication are truly impressive. He consistently deliver top-notch results and their positivity is contagious. Working with Almuakhir is a pleasure, and his active, hardworking approach is a valuable asset to our cohort 13 team.",
+            "profile": "."
+        },
+        {
+            "name": "Zubair",
+            "surname": "Moerat",
+            "quotes": "I highly recommend Al-Muakhir Jones as a software developer. Their technical expertise, commitment to quality, and strong communication skills make them an asset to any team. I look forward to the opportunity to work with him again in the future. It's always a blast with him.",
+            "profile": "."
+        }
+    ],
+    "projects":[
+        {
+            "name": "First Ecommerce",
+            "image": ".",
+            "gitHub": "https://github.com/Muakhir/Ecommerce.git",
+            "netlify": "https://ecommerce-almuakhirjones-853612.netlify.app/"
+        },
+        {
+            "name": "Calculator",
+            "image": ".",
+            "gitHub": "https://github.com/Muakhir/calculatorexample.git",
+            "netlify": "https://almuakhirjones-calculator-ecc.netlify.app/"
+        },
+        {
+            "name": "Netflix Clone",
+            "image": ".",
+            "gitHub": "https://github.com/Muakhir/Netflixclone.git",
+            "netlify": "https://almuakhirjones-netflixclone-7b2a56.netlify.app/"
+        },
+        {
+            "name": "JS Ecommerce",
+            "image": "",
+            "gitHub": "https://github.com/Muakhir/Js-Sportify-EOMP.git",
+            "netlify": "https://almuakhirjones-sportify-eomp-5348c9.netlify.app/"
+        },
+        {
+            "name": "Tempreture Converter",
+
+            "image": ".",
+            "gitHub": "https://github.com/Muakhir/Temperature-Convertor.git",
+            "netlify": "https://almuakhirjones-temperatureconvertor.netlify.app/"
+        }
+    ]
+}
