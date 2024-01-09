@@ -12,14 +12,14 @@
         {
             "id": 1,
             "year": 2021,
-            "description": "I matriculated with a Bachelors pass",
+            "description": "I matriculated with a Bachelors pass through hard work and dedication while remote Learning. ",
             "place": "Glendale Secondary School",
             "type": "certificate"
         },
         {
             "id": 2,
             "year": 2023,
-            "description": "I joined lifeChoices and I am still present there",
+            "description": "I recently joined lifeChoices and I am currently participating in their course.  ",
             "place": "LifeChoices Coding Academy"
         }
     ],
