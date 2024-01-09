@@ -26,19 +26,28 @@
     "skills": [
         {
             "title": "HTMl",
-            "experience": "Novice"
+            "experience": "Novice",
+            "image":"https://drive.google.com/uc?id=1RXsrTTsy9o_Zk8foT-akAHj2rpk0J9WB"
         },
         {
             "title": "CSS",
-            "experience": "Novice"
+            "experience": "Novice",
+            "image":"https://drive.google.com/uc?id=13I-2s_LlXa3hCnuLNiwYQQ-76EH7Rc6M"
         },
         {
             "title": "Javascript",
-            "experience": "Novice"
+            "experience": "Novice",
+            "image":"https://drive.google.com/uc?id=86tqEB47swidLBZxry338JIbzWw6IpZj"
         },
         {
             "title": "Bootstrap",
-            "experience": "Novice"
+            "experience": "Novice",
+            "image":"https://drive.google.com/uc?id=1iB5q6aSUb2sw27LgQ456RWOLdCaoi1Wb"
+        },
+        {
+            "title": "Vue",
+            "experience": "Novice",
+            "image":"https://drive.google.com/uc?id=1Gjesw8p7XAP7DFAUriQ0QvcitDSkMH_D"
         }
     ],
     "testimonials": [
