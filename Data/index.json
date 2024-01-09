@@ -69,35 +69,40 @@
     ],
     "projects":[
         {
-            "name": "First Ecommerce",
-            "image": ".",
-            "gitHub": "https://github.com/Muakhir/Ecommerce.git",
-            "netlify": "https://ecommerce-almuakhirjones-853612.netlify.app/"
+            "name": "First Portfolio",
+            "image": "https://drive.google.com/uc?id=1eNWnqRg9ScKagz-gJCTNOP0eJPY3dQsV",
+            "gitHub": "https://github.com/Muakhir/Almuakhirjones-EOMP-Portfolio.git",
+            "netlify": "https://almuakhirjones-eompportfolio-7f5526.netlify.app/"
         },
         {
             "name": "Calculator",
-            "image": ".",
+            "image": "https://drive.google.com/uc?id=15cNO0vte5Qm1zzkvzKua4s7oPv58AUcq",
             "gitHub": "https://github.com/Muakhir/calculatorexample.git",
             "netlify": "https://almuakhirjones-calculator-ecc.netlify.app/"
         },
         {
             "name": "Netflix Clone",
-            "image": ".",
+            "image": "https://drive.google.com/uc?id=1FwZnLDDt7XGLwpLbW39P7X3DSUYbdFSk",
             "gitHub": "https://github.com/Muakhir/Netflixclone.git",
             "netlify": "https://almuakhirjones-netflixclone-7b2a56.netlify.app/"
         },
         {
             "name": "JS Ecommerce",
-            "image": "",
+            "image": "https://drive.google.com/uc?id=1qVSMWjzF_Wl4GCtN4cjewOSykuxBrpUn",
             "gitHub": "https://github.com/Muakhir/Js-Sportify-EOMP.git",
             "netlify": "https://almuakhirjones-sportify-eomp-5348c9.netlify.app/"
         },
         {
             "name": "Tempreture Converter",
-
-            "image": ".",
+            "image": "https://drive.google.com/uc?id=1xI7w_-xyN0g4M_ZGFyom0H6LOJYlOO4z",
             "gitHub": "https://github.com/Muakhir/Temperature-Convertor.git",
             "netlify": "https://almuakhirjones-temperatureconvertor.netlify.app/"
+        },
+        {
+            "name": "BMI Calculator",
+            "image": "https://drive.google.com/uc?id=1wHdJ1bCdSxBeXWEK58fGCe_487n_taN3",
+            "gitHub": "https://github.com/Muakhir/BMI-Calculator.git",
+            "netlify": "https://almuakhirjones-bmicalculate-78f3fc.netlify.app/"
         }
     ]
 }
