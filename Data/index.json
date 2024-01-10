@@ -32,22 +32,22 @@
         {
             "title": "CSS",
             "experience": "Novice",
-            "image":"https://drive.google.com/uc?id=13I-2s_LlXa3hCnuLNiwYQQ-76EH7Rc6M"
+            "image":"https://iili.io/J76H1Hv.md.png"
         },
         {
             "title": "Javascript",
             "experience": "Novice",
-            "image":"https://drive.google.com/uc?id=86tqEB47swidLBZxry338JIbzWw6IpZj"
+            "image":"https://iili.io/J76dluR.md.png"
         },
         {
             "title": "Bootstrap",
             "experience": "Novice",
-            "image":"https://drive.google.com/uc?id=1iB5q6aSUb2sw27LgQ456RWOLdCaoi1Wb"
+            "image":"https://iili.io/J76HkJf.md.png"
         },
         {
             "title": "Vue",
             "experience": "Novice",
-            "image":"https://drive.google.com/uc?id=1Gjesw8p7XAP7DFAUriQ0QvcitDSkMH_D"
+            "image":"https://iili.io/J76H4s9.md.png"
         }
     ],
     "testimonials": [
@@ -85,37 +85,37 @@
     "projects":[
         {
             "name": "First Portfolio",
-            "image": "https://drive.google.com/uc?id=1eNWnqRg9ScKagz-gJCTNOP0eJPY3dQsV",
+            "image": "https://iili.io/J76JHqF.md.png",
             "gitHub": "https://github.com/Muakhir/Almuakhirjones-EOMP-Portfolio.git",
             "netlify": "https://almuakhirjones-eompportfolio-7f5526.netlify.app/"
         },
         {
             "name": "Calculator",
-            "image": "https://drive.google.com/uc?id=1Kh-XUfhxF91wN-nVjlyBNwnHDZ5EHjf4",
+            "image": "https://iili.io/J76Jz1n.md.png",
             "gitHub": "https://github.com/Muakhir/calculatorexample.git",
             "netlify": "https://almuakhirjones-calculator-ecc.netlify.app/"
         },
         {
             "name": "Netflix Clone",
-            "image": "https://drive.google.com/uc?id=1FwZnLDDt7XGLwpLbW39P7X3DSUYbdFSk",
+            "image": "https://iili.io/J76JEru.md.png",
             "gitHub": "https://github.com/Muakhir/Netflixclone.git",
             "netlify": "https://almuakhirjones-netflixclone-7b2a56.netlify.app/"
         },
         {
             "name": "JS Ecommerce",
-            "image": "https://drive.google.com/uc?id=1qVSMWjzF_Wl4GCtN4cjewOSykuxBrpUn",
+            "image": "https://iili.io/J76Jgkv.md.png",
             "gitHub": "https://github.com/Muakhir/Js-Sportify-EOMP.git",
             "netlify": "https://almuakhirjones-sportify-eomp-5348c9.netlify.app/"
         },
         {
             "name": "Tempreture Converter",
-            "image": "https://drive.google.com/uc?id=1xI7w_-xyN0g4M_ZGFyom0H6LOJYlOO4z",
+            "image": "https://iili.io/J76JQEX.md.png",
             "gitHub": "https://github.com/Muakhir/Temperature-Convertor.git",
             "netlify": "https://almuakhirjones-temperatureconvertor.netlify.app/"
         },
         {
             "name": "BMI Calculator",
-            "image": "https://drive.google.com/uc?id=1wHdJ1bCdSxBeXWEK58fGCe_487n_taN3",
+            "image": "https://iili.io/J76Jpp4.md.png",
             "gitHub": "https://github.com/Muakhir/BMI-Calculator.git",
             "netlify": "https://almuakhirjones-bmicalculate-78f3fc.netlify.app/"
         }
