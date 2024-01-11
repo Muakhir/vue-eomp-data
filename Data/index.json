@@ -93,36 +93,42 @@
         {
             "name": "First Portfolio",
             "image": "https://iili.io/J76JHqF.md.png",
+            "description": "This is my first Project I did.",
             "gitHub": "https://github.com/Muakhir/Almuakhirjones-EOMP-Portfolio.git",
             "netlify": "https://almuakhirjones-eompportfolio-7f5526.netlify.app/"
         },
         {
             "name": "Calculator",
             "image": "https://iili.io/J76Jz1n.md.png",
+            "description": "This is my first time using JavaScript in Project.",
             "gitHub": "https://github.com/Muakhir/calculatorexample.git",
             "netlify": "https://almuakhirjones-calculator-ecc.netlify.app/"
         },
         {
             "name": "Netflix Clone",
             "image": "https://iili.io/J76JEru.md.png",
+            "description": "This Project was made to test my HTML and Css",
             "gitHub": "https://github.com/Muakhir/Netflixclone.git",
             "netlify": "https://almuakhirjones-netflixclone-7b2a56.netlify.app/"
         },
         {
             "name": "JS Ecommerce",
             "image": "https://iili.io/J76Jgkv.md.png",
+            "description": "This Project was made to test my JavaScript Knowledge",
             "gitHub": "https://github.com/Muakhir/Js-Sportify-EOMP.git",
             "netlify": "https://almuakhirjones-sportify-eomp-5348c9.netlify.app/"
         },
         {
             "name": "Tempreture Converter",
             "image": "https://iili.io/J76JQEX.md.png",
+            "description": "This Project was made to prepare for JS ecommerce Project",
             "gitHub": "https://github.com/Muakhir/Temperature-Convertor.git",
             "netlify": "https://almuakhirjones-temperatureconvertor.netlify.app/"
         },
         {
             "name": "BMI Calculator",
             "image": "https://iili.io/J76Jpp4.md.png",
+            "description": "This was also used to prepare me for the JS Project",
             "gitHub": "https://github.com/Muakhir/BMI-Calculator.git",
             "netlify": "https://almuakhirjones-bmicalculate-78f3fc.netlify.app/"
         }
