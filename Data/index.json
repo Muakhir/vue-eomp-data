@@ -93,7 +93,7 @@
         {
             "name": "First Portfolio",
             "image": "https://iili.io/J76JHqF.md.png",
-            "description": "This is my first Project I did.",
+            "description": "This is my first Project I did.                  ",
             "gitHub": "https://github.com/Muakhir/Almuakhirjones-EOMP-Portfolio.git",
             "netlify": "https://almuakhirjones-eompportfolio-7f5526.netlify.app/"
         },
@@ -121,7 +121,7 @@
         {
             "name": "Tempreture Converter",
             "image": "https://iili.io/J76JQEX.md.png",
-            "description": "This Project was made to prepare for JS ecommerce Project",
+            "description": "This Project was made to prepare for JS ecom Project",
             "gitHub": "https://github.com/Muakhir/Temperature-Convertor.git",
             "netlify": "https://almuakhirjones-temperatureconvertor.netlify.app/"
         },
