@@ -107,14 +107,14 @@
         {
             "name": "Capstone",
             "image": "https://iili.io/Jjq8Mkg.png",
-            "description": "This Final Project to test all my abilities",
+            "description": "This is my Final Project to test all my abilities",
             "gitHub": "https://github.com/Muakhir/Capstone-Eomp-Almuakhir.git",
             "netlify": "https://millennium-industries.web.app/"
         },
         {
             "name": "BMI Calculator",
             "image": "https://iili.io/J76Jpp4.md.png",
-            "description": "This was also used to prepare me for the JS Project",
+            "description": "This was also used to prepare me for a Project",
             "gitHub": "https://github.com/Muakhir/BMI-Calculator.git",
             "netlify": "https://almuakhirjones-bmicalculate-78f3fc.netlify.app/"
         },
