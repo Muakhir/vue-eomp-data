@@ -95,7 +95,7 @@
             "image": "https://iili.io/Jjq8Amb.png",
             "description": "This is my first collaboration Project",
             "gitHub": "https://github.com/Muakhir/Node-Eomp-A-C.git",
-            "Firebase": "https://nodeeomp-ac.web.app/#/"
+            "netlify": "https://nodeeomp-ac.web.app/#/"
         },
         {
             "name": "Calculator",
@@ -109,7 +109,7 @@
             "image": "https://iili.io/Jjq8Mkg.png",
             "description": "This Final Project to test all my abilities",
             "gitHub": "https://github.com/Muakhir/Capstone-Eomp-Almuakhir.git",
-            "Firebase": "https://millennium-industries.web.app/"
+            "netlify": "https://millennium-industries.web.app/"
         },
         {
             "name": "BMI Calculator",
