@@ -112,11 +112,11 @@
             "netlify": "https://almuakhirjones-netflixclone-7b2a56.netlify.app/"
         },
         {
-            "name": "JS Ecommerce",
-            "image": "https://iili.io/J76Jgkv.md.png",
-            "description": "This Project was made to test my JavaScript Knowledge",
-            "gitHub": "https://github.com/Muakhir/Js-Sportify-EOMP.git",
-            "netlify": "https://almuakhirjones-sportify-eomp-5348c9.netlify.app/"
+            "name": "BMI Calculator",
+            "image": "https://iili.io/J76Jpp4.md.png",
+            "description": "This was also used to prepare me for the JS Project",
+            "gitHub": "https://github.com/Muakhir/BMI-Calculator.git",
+            "netlify": "https://almuakhirjones-bmicalculate-78f3fc.netlify.app/"
         },
         {
             "name": "Tempreture Converter",
@@ -126,11 +126,11 @@
             "netlify": "https://almuakhirjones-temperatureconvertor.netlify.app/"
         },
         {
-            "name": "BMI Calculator",
-            "image": "https://iili.io/J76Jpp4.md.png",
-            "description": "This was also used to prepare me for the JS Project",
-            "gitHub": "https://github.com/Muakhir/BMI-Calculator.git",
-            "netlify": "https://almuakhirjones-bmicalculate-78f3fc.netlify.app/"
+            "name": "JS Ecommerce",
+            "image": "https://iili.io/J76Jgkv.md.png",
+            "description": "This Project was made to test my JavaScript Knowledge",
+            "gitHub": "https://github.com/Muakhir/Js-Sportify-EOMP.git",
+            "netlify": "https://almuakhirjones-sportify-eomp-5348c9.netlify.app/"
         }
     ]
 }
