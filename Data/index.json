@@ -19,7 +19,7 @@
         {
             "id": 2,
             "title": "itern",
-            "company": "LifeChoices Academy",
+            "company": "LC Studios",
             "location": "314 Imam Haron Rd, Lansdowne, Cape Town",
             "dates": 2024
         }
@@ -42,28 +42,58 @@
     "skills": [
         {
             "title": "HTMl",
-            "experience": "Intemidate",
+            
             "image":"https://iili.io/J74bfb1.md.png"
         },
         {
             "title": "CSS",
-            "experience": "Intemidate",
+
             "image":"https://iili.io/J76H1Hv.md.png"
         },
         {
             "title": "Javascript",
-            "experience": "Intemidate",
+
             "image":"https://iili.io/J76dluR.md.png"
         },
         {
             "title": "Bootstrap",
-            "experience": "Intemidate",
+
             "image":"https://iili.io/J76HkJf.md.png"
         },
         {
             "title": "Vue",
-            "experience": "Intemidate",
+
             "image":"https://iili.io/J76H4s9.md.png"
+        },
+        {
+            "title": "Figma",
+
+            "image":"https://iili.io/dKvEaDB.md.png"
+        },
+        {
+            "title": "MySql",
+
+            "image":"https://iili.io/dKvGn5v.md.png"
+        },
+        {
+            "title": "Node JS",
+
+            "image":"https://iili.io/dKvGvIV.md.png"
+        },
+        {
+            "title": "Python",
+
+            "image":"https://iili.io/dKvMjnI.md.png"
+        },
+        {
+            "title": "Linux",
+
+            "image":"https://iili.io/dKvVlx2.md.png"
+        },
+        {
+            "title": "C++",
+
+            "image":"https://iili.io/dKvVy5G.md.png"
         }
     ],
     "testimonials": [
